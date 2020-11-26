@@ -1,7 +1,0 @@
-### 测试checkUserByMobileMd5
-POST http://localhost:8080/sso/checkUserByMobileMd5
-Content-Type: application/x-www-form-urlencoded
-Accept: application/json
-
-key=Dnvgm7qcqm8mqRGsB1C%2BoCKFkab7il6g37YG1rtE7gUEg3c%2FAuYnnDcAopDJnGC47s6Vgqt0teYlFsRj6XqKbaHLl55%2BXuDP%2BAS8bRo7tDS1TNUK3LEm5UXzBVvY6kW4WTlr0moj4oxGKGTug%2BCgS%2F9NMNIzLzu9ofTpVXiJsMk%3D&content=JseKetO3V7UX%2FdPvR0xTkRZ5f4bp%2BBospCVn1zFE%2BcYXqZjKdhi6Si2mVW065tHTqhr3fg2sdAp4DkTRZRXXsA%3D%3D&timestamp=1568964844&sign=ce302ec96fcf1a9c734a922b70599959&partner=CESHI
-###
