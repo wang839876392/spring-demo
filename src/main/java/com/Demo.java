@@ -12,12 +12,7 @@ public class Demo {
         SpringApplication.run(Demo.class, args);
     }
 
-    /**
-     * 1 小狮贷
-     * 2 小狮省钱
-     *
-     * @return
-     */
+
 
 }
 

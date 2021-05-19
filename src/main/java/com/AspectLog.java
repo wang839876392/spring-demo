@@ -1,5 +1,6 @@
 package com;
 
+import lombok.extern.slf4j.Slf4j;
 import org.aspectj.lang.JoinPoint;
 import org.aspectj.lang.ProceedingJoinPoint;
 import org.aspectj.lang.annotation.*;
@@ -24,6 +25,7 @@ import java.util.logging.Logger;
 @Aspect
 @EnableAspectJAutoProxy(proxyTargetClass=true)
 @Component
+@Slf4j
 public class AspectLog {
     @Pointcut("@annotation(com.SPI)")
     public void serviceAspect(){
