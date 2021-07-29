@@ -110,7 +110,7 @@ public class FinanceTestDemo {
         }
         Finance.DestroySdk(sdk);
 
-        List a = Arrays.asList(1,2,3,4);
+       // List a = Arrays.asList(1,2,3,4);
 
     }
 

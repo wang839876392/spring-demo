@@ -10,5 +10,8 @@
       </list>
     </option>
   </component>
+  <component name="ProjectPlainTextFileTypeManager">
+    <file url="file://$PROJECT_DIR$/src/main/resources/META-INF/1" />
+  </component>
   <component name="ProjectRootManager" version="2" project-jdk-name="1.8.0_161" project-jdk-type="JavaSDK" />
 </project>
